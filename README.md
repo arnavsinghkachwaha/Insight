@@ -29,7 +29,7 @@ Check out our application in action! [Watch the Demo on YouTube](https://www.you
 ---
 
 ## **Pitch Deck**  
-Dive deeper into our mission, technology, and business model. [View the Pitch Deck](https://www.canva.com/design/DAGcGZ1F76U/i6dAMEEOjG-KJUpRxNsS1A/edit?utm_content=DAGcGZ1F76U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Dive deeper into our mission, technology, and business model. [View the Pitch Deck]([https://www.canva.com/design/DAGcGZ1F76U/i6dAMEEOjG-KJUpRxNsS1A/edit?utm_content=DAGcGZ1F76U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGcGZ1F76U/i6dAMEEOjG-KJUpRxNsS1A/edit?utm_content=DAGcGZ1F76U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ---
 
