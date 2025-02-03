@@ -24,7 +24,7 @@ Insight Athletics is a health-tech startup dedicated to enhancing athlete safety
 ---
 
 ## **Demo Video**  
-Check out our application in action! [Watch the Demo on YouTube](https://www.youtube.com/watch?v=GCoBZVfvTSU)
+Check out our application in action! [Watch the Demo on YouTube](https://youtube.com/shorts/BYTOPZJfJZw)
 
 ---
 
