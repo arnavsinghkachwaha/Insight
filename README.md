@@ -47,4 +47,4 @@ We aim to empower athletes and medical professionals with reliable, accessible t
 ---
 
 ## **Contact Us**  
-For inquiries or collaboration opportunities, reach out to us at kachabaha19@gmail.com.  
+For inquiries or collaboration opportunities, reach out to us at arnavkachwaha@gmail.com.  
